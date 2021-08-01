@@ -12,7 +12,7 @@ now = datetime.now() # current date and time
 #public205281328
 #public184647416
 def vk():
-    url = 'https://wtf.roflcopter.fr/rss-bridge/?action=display&bridge=Vk&u=public204381526&hide_reposts=on&format=Json'
+    url = 'https://wtf.roflcopter.fr/rss-bridge/?action=display&bridge=Vk&u=public184647416&hide_reposts=on&format=Json'
     req = urllib.request.Request(url)
     date_time = now.strftime("%Y-%m-%d")
     print("date and time:",date_time)
@@ -20,17 +20,13 @@ def vk():
     r = urllib.request.urlopen(req).read()
     cont = json.loads(r)
     counter = 0
-    patt = "\
-    --- \n\
-    layout: post \n\
-    --- \n\
-    "
+    patt = "---\nlayout: post\n---\n"
     ##parcing json
     for item in cont['items']:
         counter += 1
         print("Title:", item['author']['name'], "\Content_html:", item['content_html'])
         print("----")   
-        with open("./_posts/"+date_time+"-"+str(item['_rssbridge']['post_id'])+".mdx", 'w') as f:
+        with open("./_posts/"+date_time+"-"+str(item['_rssbridge']['post_id'])+".md", 'w') as f:
             f.write(patt+"\n\n"+item['content_html'])
             f.close() 
     print("Number of titles: ", counter)
@@ -61,5 +57,5 @@ def blog():
              f.write(patt+"\n\n"+"# "+item['title']+"\n"+reText4)
              f.close() 
     print("Number of titles: ", counter)
-blog()
+vk()
 # https://wtf.roflcopter.fr/rss-bridge/?action=display&bridge=WordPress&url=https%3A%2F%2Fwww.siamcasinosonline.com%2F%25E0%25B8%259A%25E0%25B8%2597%25E0%25B8%2584%25E0%25B8%25A7%25E0%25B8%25B2%25E0%25B8%25A1%2F&format=Json
