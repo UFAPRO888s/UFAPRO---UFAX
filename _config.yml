@@ -1,6 +1,6 @@
-title: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ  # this means to ignore newlines until "show_excerpts:"
+title: UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ  # this means to ignore newlines until "show_excerpts:"
 
-description: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
+description: UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ
             เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
              พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย
 
@@ -32,6 +32,9 @@ collections:
 jekyll-minifier:
   uglifier_args:
     harmony: true
+
+image: "https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg"
+locale: "th-TH"
 
 twitter:
   username: ufax24
