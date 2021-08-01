@@ -1,9 +1,14 @@
 title: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ"  # this means to ignore newlines until "show_excerpts:"
-locale: th-TH
+
 description: "แทงบอล หวย คาสิโน สล็อต บทความเป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย UFAX24 - UFAPRO888s"
-image: https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg
+
 baseurl: "/"
-url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
+
+og:
+  locale: th-TH
+  image: https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg"
+  
+  url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
