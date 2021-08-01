@@ -1,8 +1,8 @@
-title: UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ  # this means to ignore newlines until "show_excerpts:"
+title: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ"  # this means to ignore newlines until "show_excerpts:"
 
-description: UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ
+description: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ
             เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
-             พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย
+             พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย"
 
 baseurl: "/"
 url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
@@ -35,10 +35,11 @@ jekyll-minifier:
 
 image: "https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg"
 locale: "th-TH"
+author: "pnck dev app"
 
 twitter:
-  username: ufax24
-  card: summary
+  username: "ufax24"
+  card: "summary"
 
 facebook:
   app_id: "2910681209183952"
@@ -47,10 +48,10 @@ facebook:
 
 webmaster_verifications:
   google: "8wKoeyxcK-fwaReKe5zMDZGwmfefvbrYtLp2h9GT1gE"
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+  bing: ""
+  alexa: ""
+  yandex: ""
+  baidu: ""
 
 
 soopr:
