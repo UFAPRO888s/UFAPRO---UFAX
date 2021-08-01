@@ -19,6 +19,8 @@ css_dir: "assets/css" # defaults to "css"
 
 highlighter: rouge
 
+
+
 collections:
   posts:
     output: true
@@ -53,7 +55,7 @@ webmaster_verifications:
 
 
 soopr:
-  publish_token: "qVe6vfoozhRTgn21G5xSnBc7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_54c4065a63e09f81569e411f91124775" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 exclude:
   - Gemfile
