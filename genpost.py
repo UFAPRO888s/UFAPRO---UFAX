@@ -5,7 +5,10 @@ import json
 import markdown
 from datetime import datetime
 now = datetime.now() # current date and time
-
+#public204381526
+#club204157576
+#public205281328
+#public184647416
 url = 'https://wtf.roflcopter.fr/rss-bridge/?action=display&bridge=Vk&u=public203323312&hide_reposts=on&format=Json'
 req = urllib.request.Request(url)
 date_time = now.strftime("%Y-%m-%d")
