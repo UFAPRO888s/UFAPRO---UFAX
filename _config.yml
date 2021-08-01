@@ -1,7 +1,9 @@
 title: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ  # this means to ignore newlines until "show_excerpts:"
+
 description: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
             เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
              พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย
+
 baseurl: "/"
 url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
 
@@ -30,6 +32,23 @@ collections:
 jekyll-minifier:
   uglifier_args:
     harmony: true
+
+twitter:
+  username: ufax24
+  card: summary
+
+facebook:
+  app_id: "2910681209183952"
+  publisher: "ufax249999"
+  admins: "100070873703690"
+
+webmaster_verifications:
+  google: "8wKoeyxcK-fwaReKe5zMDZGwmfefvbrYtLp2h9GT1gE"
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+
 
 soopr:
   publish_token: "qVe6vfoozhRTgn21G5xSnBc7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
