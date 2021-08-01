@@ -61,5 +61,5 @@ def blog():
              f.write(patt+"\n\n"+"# "+item['title']+"\n"+reText4)
              f.close() 
     print("Number of titles: ", counter)
-vk()
+blog()
 # https://wtf.roflcopter.fr/rss-bridge/?action=display&bridge=WordPress&url=https%3A%2F%2Fwww.siamcasinosonline.com%2F%25E0%25B8%259A%25E0%25B8%2597%25E0%25B8%2584%25E0%25B8%25A7%25E0%25B8%25B2%25E0%25B8%25A1%2F&format=Json
