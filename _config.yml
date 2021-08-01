@@ -1,11 +1,9 @@
 title: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ"  # this means to ignore newlines until "show_excerpts:"
 
-description: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ
-            เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
-             พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย"
+description: "แทงบอล หวย คาสิโน สล็อต บทความเป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย UFAX24 - UFAPRO888s"
 
 baseurl: "/"
-url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
+url: "https://ufapro888.netlify.app" # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
