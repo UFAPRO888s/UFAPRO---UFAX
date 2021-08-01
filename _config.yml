@@ -1,10 +1,10 @@
-title: Cookie
+title: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
+  เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
+  พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย
 baseurl: "/"
-url: https://cookie-demo.netlify.app # change this URL, this is needed for generating right sitemap
+url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
@@ -33,7 +33,7 @@ jekyll-minifier:
     harmony: true
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "qVe6vfoozhRTgn21G5xSnBc7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 exclude:
   - Gemfile
